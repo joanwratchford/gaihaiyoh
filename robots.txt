@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iakaesheeb.raxbo.win/sitemap.xml
